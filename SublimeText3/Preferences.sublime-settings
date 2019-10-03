@@ -1,0 +1,49 @@
+{
+	"added_words":
+	[
+		"Elioth",
+		"interdisciplinarios",
+		"interdisciplinarias",
+		"Cibernética",
+		"interdisciplinario",
+		"computacionales",
+		"Morelos",
+		"Cuernavaca",
+		"Hardware",
+		"microcontrolador",
+		"inalámbrica",
+		"hardware",
+		"escalabilidad",
+		"caudalímetros",
+		"Bluetooth",
+		"caudalímetro",
+		"Google",
+		"Play",
+		"submódulos",
+		"Submódulo",
+		"autenticación",
+		"geolocalización",
+		"Android",
+		"Linux",
+		"submódulo",
+		"Retroalimentación",
+		"Postcondiciones",
+		"Arduino",
+		"bluetooth",
+		"Derivadora",
+		"Python",
+		"Tultitlán",
+		"Facebook",
+		"Twitter",
+		"Premium"
+	],
+	"dictionary": "Packages/User/Spanish.dic",
+	"draw_white_space": "all",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spell_check": true,
+	"dart_sdk_path": "/Users/eliothmonroy/development/flutter/bin/cache/dart-sdk"
+}
