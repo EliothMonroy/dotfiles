@@ -1,7 +1,5 @@
 export PATH=~/bin:$PATH
 
-export PATH="$PATH:"/Applications/microchip/xc16/v1.35/bin""
-
 export JAVA_HOME=$(/usr/libexec/java_home)
 
 export M2_HOME=/Users/eliothmonroy/Documents/Java/apache-maven-3.6.1/
