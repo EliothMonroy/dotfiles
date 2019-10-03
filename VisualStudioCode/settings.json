@@ -13,4 +13,6 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
+    "terminal.integrated.fontFamily": "'SourceCodePro+Powerline+Awesome Regular'",
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh"
 }
