@@ -14,7 +14,7 @@
         "**/.factorypath": true
     },
     "terminal.integrated.fontFamily": "'MesloLGS NF'",
-    "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+    "terminal.integrated.shell.osx": "/bin/zsh",
     "files.autoSave": "afterDelay",
     "editor.fontFamily": "'MesloLGS NF', Menlo, Monaco, 'Courier New', monospace"
 }
