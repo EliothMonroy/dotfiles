@@ -38,13 +38,6 @@
 		"Premium"
 	],
 	"font_face": "MesloLGS NF",
-	"dictionary": "Packages/User/Spanish.dic",
 	"draw_white_space": "all",
-	"font_size": 11,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"spell_check": true,
-	"dart_sdk_path": "/Users/eliothmonroy/development/flutter/bin/cache/dart-sdk"
+	"font_size": 11
 }
